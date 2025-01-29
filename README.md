@@ -6,7 +6,7 @@
 
 - I have developed a few {{< iconify fa6-brands:r-project >}}&nbsp;packages (_e.g._,&nbsp;[SGDr](https://hxfan1227.github.io/SGDr), [efdcr](https://hxfan1227.github.io/efdcr/)). Although most of them are personal use solely, hopefully some will be helpful.
 
-- Please have a look at my complete [curriculum vitae_](https://hxfan1227.github.io/curriculum-vitae/).
+- Please have a look at my complete [_curriculum vitae_](https://hxfan1227.github.io/curriculum-vitae/) and [homepage](https://hxfan1227.github.io/).
 
 ## 🥰 Github Status 
 
